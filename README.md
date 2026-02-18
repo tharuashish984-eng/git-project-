@@ -1,4 +1,4 @@
 # git-project-
 second project 
 <br>
-Author AShish chaudhary
+Author AShish bakhariya
